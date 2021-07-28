@@ -16,5 +16,5 @@
  </div>
  
  
-  ![Snake animation](https://github.com/rafaballerini/dennisngrox/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dennisngrox/dennisngrox/blob/output/github-contribution-grid-snake.svg)
  
