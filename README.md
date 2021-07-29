@@ -1,6 +1,6 @@
 ### Olá, meu nome é Dennis!
 
-- Estudo Front-End
+- Estudando Front-End
 - Realizo diversos projetos a fim de me preparar para o futuro inovador da programação!
 - E-mail: dennisdasilva04@gmail.com
 
